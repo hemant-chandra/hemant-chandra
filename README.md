@@ -44,3 +44,5 @@ A task management project for practising frontend development.
 ---
 
 <p align="center">✨ Building today. Innovating for tomorrow. ✨</p>
+
+## 📊 GitHub Analytics\n\n<p align="center">\n  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hemant-chandra&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">\n  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemant-chandra&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">\n</p>
